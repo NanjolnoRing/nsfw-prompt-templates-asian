@@ -1,6 +1,6 @@
 # 🎨 NSFW Prompt Templates — Asian JAV Style
 
-> **本仓库已停止更新。** 后续请看 [**AmazingDraw**](https://github.com/AmazingDraw/AmazingDraw)：本地 ComfyUI 抽卡引擎（skill 版），自带 WebUI 和 CLI。交流群：[Telegram](https://t.me/AmazingDraw)
+> **本仓库已停止更新。** 后续请看 [**AmazingDraw**](https://github.com/AmazingDraw/AmazingDraw)：本地 ComfyUI 抽卡引擎。交流群：[Telegram](https://t.me/AmazingDraw)
 
 > **一套面向 AI Agent 的亚洲日本AV风格 NSFW 提示词模板库。** 14 个模块按组装顺序排列，内含 35+ JAV 经典主题、80+ 场景大类、200+ 姿势、25 种胶片色彩风格、7 种电影镜头风格、6 类液体系统、50+ 纹身图案、100+ 道具。所有内容严格以日本AV文化为核心创作方向。
 
